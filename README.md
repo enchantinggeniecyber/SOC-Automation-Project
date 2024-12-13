@@ -1,25 +1,26 @@
-# PROJECTNAME
+# SOC Automation Project
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+
+For enterprises of all sizes, having a strong Security Operations Center (SOC) is essential in the quickly changing cybersecurity world of today. On the other hand, establishing and keeping up a SOC can be difficult and resource intensive.
+I’ll take you step-by-step through the process of configuring your HomeLab for SOC automation .The goal of this project is to construct a robust, end-to-end security monitoring and response system by integrating multiple essential open-source components:
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
+- Collecting security events from a Windows client.
+- Detecting threats using Wazuh.
+- Automating responses with Shuffle.
+- Managing cases in TheHive.
+- Notifying SOC analysts i.e (you) via email.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+
+- Wazuh for security monitoring and threat detection.
+- TheHive for case management.
+- Shuffle for Security Orchestration, Automation, and Response (SOAR).
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
